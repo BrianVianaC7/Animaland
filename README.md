@@ -60,6 +60,12 @@ Game Window
 
 ___________________________________________
 
+Sign off
+
+![image](https://github.com/BrianVianaC7/Animaland/assets/120147778/4626a5b2-839b-4833-a4bc-360b3096d30e)
+
+___________________________________________
+
 
 
 
